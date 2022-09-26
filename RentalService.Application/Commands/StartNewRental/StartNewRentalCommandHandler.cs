@@ -4,7 +4,7 @@ using RentalService.Core.Repositories;
 
 namespace RentalService.Application.Commands.StartNewRental;
 
-public class StartNewRentalCommandHandler : IRequestHandler<StartNewRentalCommand>
+internal class StartNewRentalCommandHandler : IRequestHandler<StartNewRentalCommand>
 {
     private readonly ICarsRepository _carsRepository;
     private readonly IRentalsRepository _rentalsRepository;

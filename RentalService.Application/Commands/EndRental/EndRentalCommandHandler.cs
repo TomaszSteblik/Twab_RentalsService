@@ -3,7 +3,7 @@ using RentalService.Core.Repositories;
 
 namespace RentalService.Application.Commands.EndRental;
 
-public class EndRentalCommandHandler : IRequestHandler<EndRentalCommand>
+internal class EndRentalCommandHandler : IRequestHandler<EndRentalCommand>
 {
     private readonly IRentalsRepository _rentalsRepository;
     private readonly ICarsRepository _carsRepository;
