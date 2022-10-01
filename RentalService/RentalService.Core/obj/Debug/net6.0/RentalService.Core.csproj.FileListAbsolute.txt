@@ -1,0 +1,12 @@
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/bin/Debug/net6.0/RentalService.Core.deps.json
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/bin/Debug/net6.0/RentalService.Core.dll
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/bin/Debug/net6.0/RentalService.Core.pdb
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/RentalService.Core.csproj.AssemblyReference.cache
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/RentalService.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/RentalService.Core.AssemblyInfoInputs.cache
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/RentalService.Core.AssemblyInfo.cs
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/RentalService.Core.csproj.CoreCompileInputs.cache
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/RentalService.Core.dll
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/refint/RentalService.Core.dll
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/RentalService.Core.pdb
+/Users/tsteblik/Studia/sem_6/nbd/lab_9/RentalService/RentalService.Core/obj/Debug/net6.0/ref/RentalService.Core.dll
