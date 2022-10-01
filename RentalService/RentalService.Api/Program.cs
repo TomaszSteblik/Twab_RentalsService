@@ -40,8 +40,6 @@ app.UseHttpsRedirection();
 
 app.UseAuthorization();
 
-app.MapControllers();
-
 app.MapGet("/Rentals/User/{id}", async (Guid id, IMediator mediator) => 
     await mediator.Send(new GetUserRentalsQuery(id))).WithTags("Rentals");
 app.MapGet("/Rentals/{id}", async (Guid id, IMediator mediator) => 

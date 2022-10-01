@@ -34,7 +34,7 @@ public class CarsRepository : ICarsRepository
         var dbCar = await _context.Cars.FindAsync(car.Id);
         dbCar.Model = car.Model;
         dbCar.IsRented = car.IsRented;
-        dbCar.DollarsPerHours = car.DollarsPerHours;
+        dbCar.DollarsPerHours = car.DollarsPerHour;
         await _context.SaveChangesAsync();
     }
 }
