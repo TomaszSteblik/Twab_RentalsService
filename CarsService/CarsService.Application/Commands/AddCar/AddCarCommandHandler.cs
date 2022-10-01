@@ -5,7 +5,7 @@ using MediatR;
 
 namespace CarsService.Application.Commands.AddCar;
 
-public class AddCarCommandHandler : IRequestHandler<AddCarCommand>
+internal class AddCarCommandHandler : IRequestHandler<AddCarCommand>
 {
     private readonly IMapper _mapper;
     private readonly ICarsRepository _carsRepository;

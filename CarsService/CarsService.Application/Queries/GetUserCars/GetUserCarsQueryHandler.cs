@@ -5,7 +5,7 @@ using MediatR;
 
 namespace CarsService.Application.Queries.GetUserCars;
 
-public class GetUserCarsQueryHandler : IRequestHandler<GetUserCarsQuery, IEnumerable<ReadCarDto>>
+internal class GetUserCarsQueryHandler : IRequestHandler<GetUserCarsQuery, IEnumerable<ReadCarDto>>
 {
     private readonly IMapper _mapper;
     private readonly ICarsRepository _carsRepository;
